@@ -1,7 +1,7 @@
-module github.com/chromedp/chromedp
+module github.com/bootgo/chromedp
 
 require (
-	github.com/chromedp/cdproto v0.0.0-20180713053126-e314dc107013
+	github.com/bootgo/cdproto v0.0.0-20200525065333-a9b1796a70a3
 	github.com/disintegration/imaging v1.4.2
 	github.com/gorilla/websocket v1.2.0
 	github.com/knq/sysutil v0.0.0-20180306023629-0218e141a794
